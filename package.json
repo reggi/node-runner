@@ -1,0 +1,15 @@
+{
+  "name": "runner",
+  "version": "0.0.0",
+  "description": "The argument processor.",
+  "main": "./lib/index.js",
+  "repository": "",
+  "author": {
+    "name": "Thomas Reggi"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.3",
+    "dotty": "0.0.1"
+  }
+}
